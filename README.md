@@ -1,2 +1,2 @@
 # VEDA
-VeðurEftilitskerfi Darra og Andra
+Veðurmælinga Eftilitskerfi Darra og Andra
